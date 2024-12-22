@@ -11,6 +11,7 @@ export class RentalComponent implements OnInit {
 
   ngOnInit(): void {
     console.log("object");
+    console.log("object");
   }
 
 }
